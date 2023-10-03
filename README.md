@@ -15,7 +15,6 @@ Users should be able to:
 ## Screenshots
 
 ![App Screenshot](./screenshot1.jpg)
-![App Screenshot](./screenshot2.jpg)
 
 
 ## Links
